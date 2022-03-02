@@ -1,7 +1,7 @@
 // Global variables
 const guessedLettersList = document.querySelector(".guessed-letters");
 const guessLetterButton = document.querySelector(".guess");
-const letterInput = document.querySelector(".guess-form");
+const letterInput = document.querySelector(".letter");
 const wordInProgress = document.querySelector(".word-in-progress");
 const remainingGuesses = document.querySelector(".remaining");
 const spanRemainingGuesses = document.querySelector(".span");
